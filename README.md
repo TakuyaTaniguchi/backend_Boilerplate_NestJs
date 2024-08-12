@@ -3,3 +3,9 @@
 
 - CRUDとsqliteだけ持っている。
 
+## Usage
+```
+pnpm install
+pnpm run start:dev
+```
+
